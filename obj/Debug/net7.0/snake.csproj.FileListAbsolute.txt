@@ -1,0 +1,15 @@
+C:\Users\djego\OneDrive\Рабочий стол\snake\bin\Debug\net7.0\snake.exe
+C:\Users\djego\OneDrive\Рабочий стол\snake\bin\Debug\net7.0\snake.deps.json
+C:\Users\djego\OneDrive\Рабочий стол\snake\bin\Debug\net7.0\snake.runtimeconfig.json
+C:\Users\djego\OneDrive\Рабочий стол\snake\bin\Debug\net7.0\snake.dll
+C:\Users\djego\OneDrive\Рабочий стол\snake\bin\Debug\net7.0\snake.pdb
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.csproj.AssemblyReference.cache
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.AssemblyInfoInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.AssemblyInfo.cs
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.dll
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\refint\snake.dll
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.pdb
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\snake.genruntimeconfig.cache
+C:\Users\djego\OneDrive\Рабочий стол\snake\obj\Debug\net7.0\ref\snake.dll
